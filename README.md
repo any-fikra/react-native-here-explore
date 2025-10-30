@@ -80,7 +80,7 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ```
 MIT License
 
-Copyright (c) 2023 Abderrahim Ajakka
+Copyright (c) 2023 AnyFikra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
